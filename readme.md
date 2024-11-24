@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center"></h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=RoxanneGumban/WD-Finals-Gumban)
 
 ---
 
@@ -34,9 +34,6 @@
     <li>
       <a href="#overview">Overview</a>
       <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
         <li>
           <a href="#technology">Technology</a>
         </li>
@@ -64,13 +61,6 @@ Guiding Question:
 - Whats the purpose
 - What are key components
 - What technology used and how it is used
-
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
