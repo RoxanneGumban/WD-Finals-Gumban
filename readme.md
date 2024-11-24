@@ -18,6 +18,8 @@
 
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/3d168d68-4020-4dad-9487-43eb4923ea06/project/7c5f89b4-1187-4837-9859-a7c14d053669.svg)](https://wakatime.com/badge/user/3d168d68-4020-4dad-9487-43eb4923ea06/project/7c5f89b4-1187-4837-9859-a7c14d053669)
+
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=RoxanneGumban/WD-Finals-Gumban)
