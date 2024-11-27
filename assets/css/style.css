@@ -72,3 +72,7 @@ body{
         font-style: italic;
     }
 }
+.foot {
+    color: white;
+    background-color: rgb(41, 41, 41);
+}
