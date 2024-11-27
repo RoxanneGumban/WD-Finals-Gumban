@@ -109,6 +109,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Bootstrap | Bootstrap | [getbootstrap.com](https://getbootstrap.com/docs/5.3/getting-started/introduction/) |
-| Header Code | Examples used for headers | [getbootstrap.com](https://getbootstrap.com/docs/5.0/examples/headers/) |
-| NavBar | How to use navbar | [getbootstrap.com](https://getbootstrap.com/docs/5.0/components/navbar/) |
+| Bootstrap | Bootstrap | [https://getbootstrap.com/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.3/getting-started/introduction/) |
+| Header Code | Examples used for headers | [https://getbootstrap.com/docs/5.0/examples/headers/](https://getbootstrap.com/docs/5.0/examples/headers/) |
+| NavBar | How to use navbar | [https://getbootstrap.com/docs/5.0/components/navbar/](https://getbootstrap.com/docs/5.0/components/navbar/) |
+| Footer | The cards footer i used | [https://getbootstrap.com/docs/5.0/components/card/#header-and-footer](https://getbootstrap.com/docs/5.0/components/card/#header-and-footer) |
+| Text-shadow | How i managed to make a outline in the text | [https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow) |
