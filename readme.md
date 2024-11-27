@@ -109,4 +109,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Bootstrap | Bootstrap | [getbootstrap.com](https://getbootstrap.com/docs/5.3/getting-started/introduction/) |
+| Header Code | Examples used for headers | [getbootstrap.com](https://getbootstrap.com/docs/5.0/examples/headers/) |
+| NavBar | How to use navbar | [getbootstrap.com](https://getbootstrap.com/docs/5.0/components/navbar/) |
