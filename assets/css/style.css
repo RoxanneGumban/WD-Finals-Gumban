@@ -1,7 +1,10 @@
 header{
     background-color: rgb(41, 41, 41);
-    padding-right: 5%;
-    padding-left: 5%;
+    padding-right: 2%;
+    padding-left: 0;
+    .logo{
+        padding-top: 1%;
+    }
 }
 body{
     background-color: rgb(26, 26, 26);
@@ -15,5 +18,57 @@ body{
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    padding-left: 20px;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+    h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 900;
+        font-variant: small-caps;
+        font-size: 5rem;
+        color: white;
+        text-shadow: 3px 3px 2px rgb(0, 0, 0), -3px -3px 2px black, -3px 3px 2px black, 3px -3px 2px black;
+        font-style: italic;
+    }
+}
+.second {
+    background-image: url(https://www.mitsubishi-motors.com/en/newsrelease/images/download/2022/11/p_221121_m_1402_img_01.png);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+    h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 900;
+        font-variant: small-caps;
+        font-size: 5rem;
+        color: white;
+        text-shadow: 3px 3px 2px rgb(0, 0, 0), -3px -3px 2px black, -3px 3px 2px black, 3px -3px 2px black;
+        font-style: italic;
+    }
+}
+.third {
+    background-image: url(https://www.mitsubishi-motors.com/en/newsrelease/images/download/2022/11/p_221121_m_1402_img_01.png);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+    h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 900;
+        font-variant: small-caps;
+        font-size: 5rem;
+        color: white;
+        text-shadow: 3px 3px 2px rgb(0, 0, 0), -3px -3px 2px black, -3px 3px 2px black, 3px -3px 2px black;
+        font-style: italic;
+    }
 }
