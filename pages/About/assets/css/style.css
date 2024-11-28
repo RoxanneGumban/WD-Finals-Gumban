@@ -29,9 +29,8 @@ body{
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
-        border: 10px solid rgb(0, 0, 0);
-        background-color: black;
-        border-radius: 5px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-shadow: 3px 3px 1px rgb(0, 0, 0), -3px -3px 1px black, -3px 3px 1px black, 3px -3px 1px black;
     }
 }
 
