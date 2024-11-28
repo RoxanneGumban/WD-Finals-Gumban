@@ -1,0 +1,45 @@
+header{
+    background-color: rgb(41, 41, 41);
+    padding-right: 2%;
+    padding-left: 0;
+    .logo{
+        padding-top: 1%;
+    }
+}
+body{
+    background-color: rgb(26, 26, 26);
+}
+.container{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+    text-align: justify;
+    h5{
+        padding-left: 2rem;
+    }
+}
+
+.card-group {
+    text-align: justify;
+    color: white;
+    background-color: rgb(41, 41, 41);
+    .card-title{
+        font-size:xx-large;
+    }
+    .btn-custom {
+        background-color: rgb(26, 26, 26);
+        color: white;
+        border: none;
+        font-variant: small-caps;
+    }
+    .btn-custom:hover {
+        background-color: rgb(255, 255, 255);
+        color:black
+    }
+    .card-img-top {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+    }
+}
