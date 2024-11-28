@@ -20,11 +20,11 @@ body{
     }
 }
 .btn-custom {
-    background-color: rgb(26, 26, 26);
-    color: white;
+    background-color: rgb(255, 255, 255);
+    color: rgbrgb(26, 26, 26);
     border: none;
 }
 .btn-custom:hover {
-    background-color: rgb(255, 255, 255);
-    color:black
+    background-color: rgb(26, 26, 26);
+    color:rgb(255, 255, 255)
 }

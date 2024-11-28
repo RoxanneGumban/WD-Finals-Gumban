@@ -24,16 +24,67 @@ body{
 }
 
 .main {
-    background-image: url(https://www.mitsubishi-motors.com/en/newsrelease/images/download/2022/11/p_221121_m_1402_img_01.png);
+    background-image: url(https://www.mitsubishi-motors.qa/content/dam/mitsubishi-motors/images/site-images/cars/xforce/overview/1.1440x900%20Standard-HERO-24MY_XF_IDN-RHD_MV_Cover_Edit.jpg?width=1440&auto=webp&quality=70);
     background-size: cover;
     background-position: center;
     height: 400px;
-    color: white;
-    align-items: center;
-    justify-content: flex-start;
     padding-left: 2rem;
     margin-bottom: 1rem;
+    .btn-custom {
+        background-color: rgb(41, 41, 41);
+        color: white;
+        border: none;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        border-radius: 0.5rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .btn-custom:hover {
+        background-color: rgb(255, 255, 255);
+        color:black
+    }
 }
 .description{
     color: white;
+    padding: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    .container {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .price-highlight {
+        color: #ffffff;
+        font-size: 2rem;
+        font-weight: bold;
+        text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+        background-color: rgb(41, 41, 41);
+        padding: 0.2rem 0.5rem;
+        border-radius: 5px;
+    }
+}
+.accordion-button {
+    align-items: center;
+    padding-left: 2rem;
+    color: white;
+    h1  {
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: rgb(41, 41, 41);
+    color: #ffffff;
+    border-color: #555;
+}
+.accordion-button.collapsed {
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+.accordion-body {
+    background-color: #2d2d2d;
+    color: #ffffff;
 }
