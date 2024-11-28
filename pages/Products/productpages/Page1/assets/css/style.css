@@ -1,0 +1,39 @@
+header{
+    background-color: rgb(41, 41, 41);
+    padding-right: 2%;
+    padding-left: 0;
+    .logo{
+        padding-top: 1%;
+    }
+}
+body{
+    background-color: rgb(26, 26, 26);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    a {
+        text-decoration: none;
+        color: white;
+    }
+    a:hover{
+        color: red;
+    }
+    .directory {
+    color:white;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+    }
+}
+
+.main {
+    background-image: url(https://www.mitsubishi-motors.com/en/newsrelease/images/download/2022/11/p_221121_m_1402_img_01.png);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+}
+.description{
+    color: white;
+}
