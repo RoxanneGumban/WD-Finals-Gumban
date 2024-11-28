@@ -6,14 +6,13 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="" alt="" width="130" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mitsubishi_motors_new_logo.svg/1200px-Mitsubishi_motors_new_logo.svg.png" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center"></h3>
+  <h3 align="center">Finals</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
 </div>
 
 <br />
@@ -58,11 +57,8 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The given website here is A recreation of the original website of the car brand Mitsubishi. 
+Disclaimer! I do not own anything or am i affiliated with the actual company, I am merely using it for the sake of a school project.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
