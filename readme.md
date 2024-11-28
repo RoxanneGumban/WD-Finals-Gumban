@@ -114,3 +114,5 @@ WD-ProjectName
 | NavBar | How to use navbar | [https://getbootstrap.com/docs/5.0/components/navbar/](https://getbootstrap.com/docs/5.0/components/navbar/) |
 | Footer | The cards footer i used | [https://getbootstrap.com/docs/5.0/components/card/#header-and-footer](https://getbootstrap.com/docs/5.0/components/card/#header-and-footer) |
 | Text-shadow | How i managed to make a outline in the text | [https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow) |
+| Carousel | For the product Page | [https://getbootstrap.com/docs/5.0/components/carousel/#slides-only](https://getbootstrap.com/docs/5.0/components/carousel/#slides-only) |
+| Acordion | For the about | [https://getbootstrap.com/docs/5.0/components/accordion/](https://getbootstrap.com/docs/5.0/components/accordion/) |
