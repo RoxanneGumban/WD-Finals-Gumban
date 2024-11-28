@@ -8,4 +8,23 @@ header{
 }
 body{
     background-color: rgb(26, 26, 26);
+    padding-bottom: 5%;
+}
+
+.carousel-caption{
+    font-size: large;
+    p   { font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    h5  {
+        font-weight: bold;
+    }
+}
+.btn-custom {
+    background-color: rgb(26, 26, 26);
+    color: white;
+    border: none;
+}
+.btn-custom:hover {
+    background-color: rgb(255, 255, 255);
+    color:black
 }
