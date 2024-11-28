@@ -116,3 +116,5 @@ WD-ProjectName
 | Text-shadow | How i managed to make a outline in the text | [https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow) |
 | Carousel | For the product Page | [https://getbootstrap.com/docs/5.0/components/carousel/#slides-only](https://getbootstrap.com/docs/5.0/components/carousel/#slides-only) |
 | Acordion | For the about | [https://getbootstrap.com/docs/5.0/components/accordion/](https://getbootstrap.com/docs/5.0/components/accordion/) |
+| Websites Refrenced | general information | [https://www.mitsubishi-motors.com.ph/](https://www.mitsubishi-motors.com.ph/) |
+| Websites Refrenced | Price information | [https://www.autodeal.com.ph/](https://www.autodeal.com.ph/) |
