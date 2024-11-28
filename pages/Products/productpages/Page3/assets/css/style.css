@@ -1,0 +1,94 @@
+header{
+    background-color: rgb(41, 41, 41);
+    padding-right: 2%;
+    padding-left: 0;
+    .logo{
+        padding-top: 1%;
+    }
+}
+body{
+    background-color: rgb(26, 26, 26);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    a {
+        text-decoration: none;
+        color: white;
+    }
+    a:hover{
+        color: red;
+    }
+    .directory {
+    color:white;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+    }
+}
+
+.main {
+    background-image: url(https://di-uploads-pod34.dealerinspire.com/obrienmitsubishi/uploads/2024/01/2024-mitsubishi-mirage.png);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+    .btn-custom {
+        background-color: rgb(41, 41, 41);
+        color: white;
+        border: none;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        border-radius: 0.5rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .btn-custom:hover {
+        background-color: rgb(255, 255, 255);
+        color:black
+    }
+    img{
+        width: 50%;
+        padding: 1rem;
+    }
+}
+.description{
+    color: white;
+    padding: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    .container {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .price-highlight {
+        color: #ffffff;
+        font-size: 2rem;
+        font-weight: bold;
+        text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+        background-color: rgb(41, 41, 41);
+        padding: 0.2rem 0.5rem;
+        border-radius: 5px;
+    }
+}
+.accordion-button {
+    align-items: center;
+    padding-left: 2rem;
+    color: white;
+    h1  {
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: rgb(41, 41, 41);
+    color: #ffffff;
+    border-color: #555;
+}
+.accordion-button.collapsed {
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+.accordion-body {
+    background-color: #2d2d2d;
+    color: #ffffff;
+}

@@ -43,6 +43,9 @@ body{
         background-color: rgb(255, 255, 255);
         color:black
     }
+    img{
+        width: 50%;
+    }
 }
 .description{
     color: white;
